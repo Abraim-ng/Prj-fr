@@ -1,0 +1,50 @@
+.back-btn{
+    margin-right: 8px;
+}
+.num-5{
+    margin-right: 8px;
+}
+
+.str-btn{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 16px 10px 16px;
+    transition: padding-right 0.5s, padding-bottom 0.5s, padding-left 0.5s, padding-right 0.5s;
+}
+.str-btn:hover{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.sdw-btn{
+    background-color: green;
+    border: none;
+    padding: 10px 16px 10px 16px;
+    color: white;
+    transition: box-shadow 0.8s;
+    cursor: pointer;
+}
+.sdw-btn:hover{
+    box-shadow: 2px 2px 15px black;
+}
+.sdw-btn:active{
+    margin: 2px 0px 0px 1px;
+}
+.grbtn{
+    background-color: green;
+    border: none;
+    padding: 10px 16px 10px 16px;
+    color: white;
+    cursor: pointer;
+    transition: padding-left 1s, padding-right 0.7s;
+    margin: 10px;
+    border-radius: 2px;
+}
+.grbtn:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+}
