@@ -1,0 +1,58 @@
+/* * {
+    font-family: Arial;
+    font-size: 15px;
+    
+}
+.E-mail {
+    display: block;
+    padding: 6px 65px 6px 14px;
+    margin-top: 5px;
+    border-color: rgb(173, 172, 172);
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0.5px;
+}
+.first-name {
+    width: 100px;
+    margin: 1px;
+    border-color: rgb(173, 172, 172);
+    border-radius: 5px;
+    border-style: solid;
+    padding: 6px 14px 6px 14px;
+    border-width: 0.5px;
+}
+.sign-up{
+    margin-top: 8px;
+    padding: 6px 115px 6px 100px;
+    background-color: rgb(100, 198, 255);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+} */
+
+/* -------------------------------------------------------- */
+
+* {
+    font-size: 15px;
+    font-family: arial;
+}
+.pickup {
+    padding: 10px 30px 10px 16px;
+    background-color: rgb(233, 233, 233);
+    border-style: solid;
+    border: none;
+    display: block;
+    margin-top: 5px;
+}
+button {
+    padding: 10px 6px 10px 6px;
+    margin-top: 5px;
+    border: none;
+    cursor: pointer;
+}
+.re-now {
+    background-color: black;
+    color: white;
+}
