@@ -16,3 +16,15 @@ img{
     object-position: center;
     border-radius: 150px;
 }
+.name{
+    display: block;
+    margin-bottom: 25px;
+}
+.email{
+    display: block;
+}
+.para{
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
