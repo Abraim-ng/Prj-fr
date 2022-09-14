@@ -1,0 +1,28 @@
+*{
+    font-family: Arial;
+}
+.img-3 {
+    width: 300px;
+    display: block;
+    /* margin-top: 20px; */
+}
+.video-title {
+    width: 300px;
+    font-weight: bold;
+}
+.channel-name {
+    color: gray;
+    font-size: 15px;
+}
+.ytb-statics {
+    color: gray;
+    font-size: 15px;
+}
+.search-bar {
+    display: block;
+}
+.div-example {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
