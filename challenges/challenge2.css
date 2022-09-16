@@ -42,6 +42,14 @@
 .suggest img {
     width: 155px;
 }
+.suggest .ezzi {
+    width: 30px;
+    border-radius: 15px;
+    display: inline-block;
+}
+.suggest .text-img {
+    display: block;
+}
 .username{
     margin-left: 5px;
     margin-bottom: 10px;
@@ -56,6 +64,7 @@
     display: block;
     margin-bottom: 15px;
     text-decoration: none;
+    vertical-align: top;
 }
 .suggest button{
     border: none;
