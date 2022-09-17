@@ -1,0 +1,23 @@
+.base-div {
+    border-style: dashed;
+    border-width: 1px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+.text1 {
+    background-color: aquamarine;
+    width: 100px;
+    
+}
+.text2 {
+    background-color: lightblue;
+    width: 100px;
+}
+.text3 {
+    background-color: lightpink;
+    width: 100px;
+}
