@@ -32,7 +32,7 @@
     cursor: pointer;
 }
 .suggest {
-    display: inline-block;
+    /* display: inline-block; */
     border-style: groove;
     border-width: 0.1px;
     border-color: rgb(252, 241, 241);
@@ -45,7 +45,7 @@
 .suggest .ezzi {
     width: 30px;
     border-radius: 15px;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .suggest .text-img {
     display: block;
@@ -107,4 +107,9 @@
     /* border-radius: 10px; */
     font-weight: 100;
     cursor: pointer;
+}
+.fb-grid { 
+    display: grid;
+    grid-template-columns: 167px 167px 167px 167px;
+    gap: 10px;
 }
