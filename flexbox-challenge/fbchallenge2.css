@@ -8,15 +8,22 @@ button {
     border-radius: 10px;
     background-color: lightblue;
     color: white;
+    cursor: pointer;
 }
 img {
     border-radius: 35px;
+    cursor: pointer;
 }
 p {
     font-size: 15px;
     width: 50px;
     margin: 3px 0px 0px 15px;
     color: gray;
+}
+h1 {
+    font-size: 15px;
+    margin: 5px 0px 0px 15px;  
+    cursor: pointer;
 }
 .flexbox {
     display: flex;
@@ -25,11 +32,7 @@ p {
     align-items: center;
     margin-bottom: 5px;
 }
-h1 {
-    font-size: 15px;
-    margin: 5px 0px 0px 15px;
-    
-}
+
 
 .container {
     display: flex;
