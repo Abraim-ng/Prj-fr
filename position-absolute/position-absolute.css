@@ -1,0 +1,42 @@
+body {
+    height: 3000px;
+}
+button {
+    border: none;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+.gray-square {
+    border-style: solid;
+    width: 320px;
+    height: 180px;
+    background-color: gray;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.x {
+    position: absolute;
+    top: -19px;
+    left: 0px;
+    cursor: pointer;
+}
+.add-time {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
